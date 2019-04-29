@@ -1,0 +1,7 @@
+<script>
+function find(array, criteriaFn) {
+let current = array
+let next = []
+while (current || current === 0)
+}
+</script>
